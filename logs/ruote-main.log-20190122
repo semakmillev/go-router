@@ -1,0 +1,111 @@
+2019/01/22 17:56:24.715017 main.go:129 INFO run Route - main:5005
+2019/01/22 17:56:24.715017 main.go:139 INFO checking ...main
+2019/01/22 18:03:45.202904 main.go:130 INFO run Route - main:5005
+2019/01/22 18:03:45.202904 main.go:140 INFO checking ...main
+2019/01/22 18:04:08.615904 logger.go:32 INFO received answer: http://localhost:5001/request È
+2019/01/22 18:06:47.402904 main.go:131 INFO run Route - main:5005
+2019/01/22 18:06:47.402904 main.go:141 INFO checking ...main
+2019/01/22 18:13:28.739904 main.go:131 INFO run Route - main:5005
+2019/01/22 18:13:28.739904 main.go:141 INFO checking ...main
+2019/01/22 18:19:34.519904 main.go:144 INFO checking ...main
+2019/01/22 18:19:34.519904 main.go:133 INFO run Route - main:5005
+2019/01/22 18:19:34.546904 logger.go:27 WARN http://0.0.0.0:5001 became alive
+2019/01/22 18:24:00.007904 logger.go:32 INFO received answer: http://0.0.0.0:5001/request 503
+2019/01/22 18:24:00.007904 logger.go:37 ERROR received error: http://0.0.0.0:5001/request 503
+2019/01/22 18:24:00.016904 logger.go:32 INFO received answer: http://0.0.0.0:5002/request 503
+2019/01/22 18:24:00.016904 logger.go:37 ERROR received error: http://0.0.0.0:5002/request 503
+2019/01/22 18:24:13.389904 logger.go:32 INFO received answer: http://0.0.0.0:5001/request 503
+2019/01/22 18:24:13.389904 logger.go:37 ERROR received error: http://0.0.0.0:5001/request 503
+2019/01/22 18:25:04.315904 main.go:144 INFO checking ...main
+2019/01/22 18:25:04.316904 main.go:133 INFO run Route - main:5005
+2019/01/22 18:25:05.329904 logger.go:27 WARN http://localhost:5001 became alive
+2019/01/22 18:25:08.597904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:25:25.775904 logger.go:27 WARN http://localhost:5002 became alive
+2019/01/22 18:25:29.165904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:25:29.956904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:25:30.644904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:25:39.097904 logger.go:32 INFO received answer: http://localhost:5001/request 404
+2019/01/22 18:25:39.097904 logger.go:37 ERROR received error: http://localhost:5001/request 404
+2019/01/22 18:25:39.399904 logger.go:32 INFO received answer: http://localhost:5002/request 200
+2019/01/22 18:25:44.446904 logger.go:27 WARN http://localhost:5001 became dead
+2019/01/22 18:25:45.747904 logger.go:32 INFO received answer: http://localhost:5001/request 404
+2019/01/22 18:25:45.747904 logger.go:37 ERROR received error: http://localhost:5001/request 404
+2019/01/22 18:25:45.748904 logger.go:32 INFO received answer: http://localhost:5002/request 200
+2019/01/22 18:25:49.776904 logger.go:32 INFO received answer: http://localhost:5002/request 200
+2019/01/22 18:25:53.512904 logger.go:32 INFO received answer: http://localhost:5002/request 200
+2019/01/22 18:25:54.302904 logger.go:32 INFO received answer: http://localhost:5002/request 200
+2019/01/22 18:25:55.111904 logger.go:32 INFO received answer: http://localhost:5002/request 200
+2019/01/22 18:25:55.822904 logger.go:32 INFO received answer: http://localhost:5002/request 200
+2019/01/22 18:25:56.535904 logger.go:32 INFO received answer: http://localhost:5002/request 200
+2019/01/22 18:25:57.079904 logger.go:32 INFO received answer: http://localhost:5002/request 200
+2019/01/22 18:25:57.655904 logger.go:32 INFO received answer: http://localhost:5002/request 200
+2019/01/22 18:27:13.306904 logger.go:32 INFO checking ...main
+2019/01/22 18:27:13.307904 main.go:132 INFO run Route - main:5005
+2019/01/22 18:27:14.313904 logger.go:27 WARN http://localhost:5001 became alive
+2019/01/22 18:27:24.854904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:27:25.445904 logger.go:27 WARN http://localhost:5002 became alive
+2019/01/22 18:27:38.739904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:22.018904 logger.go:32 INFO checking ...main
+2019/01/22 18:28:22.019904 main.go:129 INFO run Route - main:5005
+2019/01/22 18:28:23.131904 logger.go:27 WARN http://localhost:5001 became alive
+2019/01/22 18:28:24.177904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:24.770904 logger.go:27 WARN http://localhost:5002 became alive
+2019/01/22 18:28:26.647904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:50.585904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:51.351904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:51.956904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:52.556904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:53.428904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:54.206904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:54.755904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:55.205904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:55.649904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:56.634904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:28:57.189904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:29:16.760904 logger.go:27 WARN http://localhost:5001 became dead
+2019/01/22 18:29:18.065904 logger.go:32 INFO received answer: http://localhost:5001/request 404
+2019/01/22 18:29:18.065904 logger.go:37 ERROR received error: http://localhost:5001/request 404
+2019/01/22 18:29:18.367904 logger.go:32 INFO received answer: http://localhost:5002/request 200
+2019/01/22 18:31:23.809904 logger.go:32 INFO checking ...main
+2019/01/22 18:31:23.809904 main.go:129 INFO run Route - main:5005
+2019/01/22 18:31:24.832904 logger.go:27 WARN http://localhost:5001 became alive
+2019/01/22 18:31:28.146904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:31:28.839904 logger.go:27 WARN http://localhost:5002 became alive
+2019/01/22 18:31:30.026904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:31:31.179904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:31:32.258904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:31:33.124904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:31:33.857904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:31:34.564904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:57:19.025904 logger.go:32 INFO checking ...main
+2019/01/22 18:57:19.025904 main.go:133 INFO run Route - main:5005
+2019/01/22 18:57:20.038904 logger.go:27 WARN http://localhost:5001 became alive
+2019/01/22 18:57:21.038904 logger.go:27 WARN http://localhost:5002 became alive
+2019/01/22 18:57:42.106904 logger.go:27 WARN http://localhost:5001 became dead
+2019/01/22 18:57:49.319904 logger.go:32 INFO received answer: http://localhost:5002/request 200
+2019/01/22 18:59:02.161904 logger.go:27 WARN http://localhost:5001 became alive
+2019/01/22 18:59:06.670904 logger.go:32 INFO received answer: http://localhost:5001/request 200
+2019/01/22 18:59:38.422904 logger.go:32 INFO checking ...main
+2019/01/22 18:59:38.422904 main.go:116 INFO run Route - main:5005
+2019/01/22 18:59:39.449904 logger.go:27 WARN http://localhost:5001 became alive
+2019/01/22 18:59:40.448904 logger.go:27 WARN http://localhost:5002 became alive
+2019/01/22 18:59:48.449904 logger.go:27 WARN http://localhost:5002 became dead
+2019/01/22 19:00:52.060904 logger.go:27 WARN http://localhost:5001 became dead
+2019/01/22 19:01:02.067904 logger.go:27 WARN http://localhost:5002 became alive
+2019/01/22 19:01:57.807904 logger.go:32 INFO checking ...main
+2019/01/22 19:01:57.808904 main.go:120 INFO run Route - main:5005
+2019/01/22 19:02:00.838904 logger.go:27 WARN http://localhost:5002 became alive
+2019/01/22 19:02:09.833904 logger.go:27 WARN http://localhost:5002 became dead
+2019/01/22 19:02:56.269904 logger.go:32 INFO checking ...main
+2019/01/22 19:02:56.269904 main.go:123 INFO run Route - main:5005
+2019/01/22 19:03:03.084904 logger.go:32 INFO received answer: http://localhost:5001/request 404
+2019/01/22 19:03:03.084904 logger.go:37 ERROR received error: http://localhost:5001/request 404
+2019/01/22 19:03:04.385904 logger.go:32 INFO received answer: http://localhost:5002/request 404
+2019/01/22 19:03:04.385904 logger.go:37 ERROR received error: http://localhost:5002/request 404
+2019/01/22 19:03:19.300904 logger.go:32 INFO received answer: http://localhost:5001/request 404
+2019/01/22 19:03:19.300904 logger.go:37 ERROR received error: http://localhost:5001/request 404
+2019/01/22 19:03:20.601904 logger.go:32 INFO received answer: http://localhost:5002/request 404
+2019/01/22 19:03:20.601904 logger.go:37 ERROR received error: http://localhost:5002/request 404
+2019/01/22 19:03:24.325904 logger.go:32 INFO received answer: http://localhost:5001/request 404
+2019/01/22 19:03:24.325904 logger.go:37 ERROR received error: http://localhost:5001/request 404
+2019/01/22 19:03:24.628904 logger.go:32 INFO received answer: http://localhost:5002/request 200

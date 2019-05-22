@@ -1,0 +1,34 @@
+main.go:128 checking ...second
+main.go:142 webmbank-dev16.oso.mmbank.ru:5005 became alive
+main.go:142 webmbank-dev16.oso.mmbank.ru:5006 became alive
+main.go:118 second:5010
+main.go:142 webmbank-dev16.oso.mmbank.ru:5005 became alive
+main.go:142 webmbank-dev16.oso.mmbank.ru:5006 became alive
+main.go:142 webmbank-dev16.oso.mmbank.ru:5005 became alive
+main.go:142 webmbank-dev16.oso.mmbank.ru:5006 became alive
+main.go:142 webmbank-dev16.oso.mmbank.ru:5005 became alive
+main.go:142 webmbank-dev16.oso.mmbank.ru:5006 became alive
+main.go:142 webmbank-dev16.oso.mmbank.ru:5005 became alive
+main.go:142 webmbank-dev16.oso.mmbank.ru:5006 became alive
+main.go:142 webmbank-dev16.oso.mmbank.ru:5005 became alive
+main.go:142 webmbank-dev16.oso.mmbank.ru:5006 became alive
+main.go:142 webmbank-dev16.oso.mmbank.ru:5005 became alive
+main.go:142 webmbank-dev16.oso.mmbank.ru:5006 became alive
+main.go:128 checking ...second
+main.go:118 second:5010
+main.go:128 checking ...second
+main.go:118 run Route - second:5010
+main.go:131 checking ...second
+main.go:121 run Route - second:5010
+main.go:131 checking ...second
+main.go:121 run Route - second:5010
+2019/01/21 18:52:18.730904 main.go:131 INFO checking ...second
+2019/01/21 18:52:18.731904 main.go:121 INFO run Route - second:5010
+2019/01/21 18:56:30.685904 main.go:134 INFO checking ...second
+2019/01/21 18:56:30.686904 main.go:124 INFO run Route - second:5010
+2019/01/21 18:59:48.848904 main.go:134 INFO checking ...second
+2019/01/21 18:59:48.850904 main.go:124 INFO run Route - second:5010
+2019/01/21 19:03:06.041904 main.go:133 INFO checking ...second
+2019/01/21 19:03:06.041904 main.go:123 INFO run Route - second:5010
+2019/01/21 19:05:36.911904 main.go:133 INFO checking ...second
+2019/01/21 19:05:36.912904 main.go:123 INFO run Route - second:5010

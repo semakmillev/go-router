@@ -1,0 +1,22 @@
+type Users struct {
+    db *gorm.DB
+}
+
+func (users *Users) showHandler(w http.ResponseWriter, r *http.Request) {
+    //now you can use users.db
+}
+func (users *Users) addHandler(w http.ResponseWriter, r *http.Request) {
+    //now you can use users.db
+}
+
+// setup
+users := &Users{db: createDB()}
+router.HandleFunc("/users/{id}", users.showHandler).Methods("GET")
+router.HandleFunc("/users/new", users.addHandler)
+//etc
+Another approach is creating a wrapper function:
+
+db := createDB()
+router.HandleFunc("/users/{id}", func(w http.ResponseWriter, r *http.Request) {
+    showUserHandler(w, r, db)
+}).Method("GET")

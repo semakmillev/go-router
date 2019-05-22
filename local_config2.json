@@ -1,0 +1,11 @@
+{"routes":
+[{"name":"main",
+	"port": "5005",
+	"directions": [{"url":"http://0.0.0.0:5001"},{"url":"http://0.0.0.0:5002"}]
+},
+	{"name":"second",
+		"port": "5010",
+		"directions": [{"url":"webmbank-dev16.oso.mmbank.ru:5005"},{"url":"webmbank-dev16.oso.mmbank.ru:5006"}]
+	}
+]
+}
